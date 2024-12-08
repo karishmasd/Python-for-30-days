@@ -1,2 +1,2 @@
 # Python-for-30-days
-I have taken up python 30 day challenge from 8-12-2024 to 7-1-2025 . Here i have  progress of my coding skills 
+Welcome to my Python 30-day challenge journey! From December 8, 2024, to January 7, 2025, I am dedicating myself to systematically enhancing my coding skills.
